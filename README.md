@@ -41,9 +41,7 @@ integrations, third-party integrations, and database-driven applications.
 
 ### Databases
 - PostgreSQL
-- MongoDB
 - MySQL
-- Drizzle ORM
 
 ### Integrations
 - Stripe
@@ -60,37 +58,6 @@ integrations, third-party integrations, and database-driven applications.
 - GitHub
 - GitLab
 - Postman
-
-## 💳 Payment Integration
-
-Experience integrating Stripe payment and subscription workflows,
-including:
-
-- Stripe Elements
-- SetupIntent
-- Payment Methods
-- Stripe Customers
-- Subscription creation
-- Subscription trials
-- Checkout Sessions
-- PaymentIntent
-- SCA / 3D Secure flows
-- Stripe Webhooks
-- Webhook signature verification
-- Payment success and failure handling
-- Subscription lifecycle management
-- Subscription-based access control
-
-## 🔐 Authentication & RBAC
-
-- JWT-based authentication
-- Email OTP / 2FA
-- Role-Based Access Control (RBAC)
-- Protected frontend routes
-- Protected backend APIs
-- Role and permission-based authorization
-- Multi-role application workflows
-- Tenant-aware authorization
 
 ## 🔗 Third-Party Integrations
 
